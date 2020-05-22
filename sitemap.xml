@@ -3,7 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://frankgu.me/posts/start-of-blog/</loc>
+    <lastmod>2020-05-21T20:36:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frankgu.me/posts/</loc>
+    <lastmod>2020-05-21T20:36:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frankgu.me/about/</loc>
+    <lastmod>2020-05-21T20:09:19-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://frankgu.me/</loc>
+    <lastmod>2020-05-21T20:09:19-04:00</lastmod>
   </url>
   
   <url>
